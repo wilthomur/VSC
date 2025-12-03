@@ -1,1 +1,3 @@
 Hola
+adiós
+hasta luego
